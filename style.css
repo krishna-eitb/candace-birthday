@@ -257,7 +257,7 @@ body {
     border-radius: 50%;
     overflow: hidden;
     display: flex;
-    align-items: center;
+    align-items: start;
     border: 6px solid var(--color-black);
 }
 .content .right .image img{
